@@ -4,9 +4,6 @@ Configuració bd cromos-pg
 
 Creat el repo a GitHub: https://github.com/josepgh/cromos-pg.git
 
-
-	
-$ git init	Crea el repo local
 $ git clone https://github.com/josepgh/cromos-pg.git	Clona repo remot en local (crea la carpeta)
 $ cd cromos-pg	
 $ git add .	
